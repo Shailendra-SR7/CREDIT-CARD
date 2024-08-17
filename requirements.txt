@@ -1,7 +1,8 @@
 pickleshare==0.7.5
-pandas
-numpy
-scikit-learn
+pandas==2.2.1
+numpy==1.24.2
+scikit-learn==1.4.2
 imbalanced-learn==0.10.1
-Pillow==9.5.0
-distutil
+Pillow==9.4.0
+setuptools==65.6.3
+streamlit==1.37.1
